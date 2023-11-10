@@ -29,7 +29,6 @@ for (contador = 0; contador < listaDeTeclas.length; contador++){
             tecla.classList.remove('ativa');
         }
     
-
-listaDeTeclas[1].onclick = tocaSomClap;
-listaDeTeclas[2].onclick = tocaSomTim;
-listaDeTeclas[3].onclick = tocaSomPuff;
+listaDeTeclas[1].onclick;
+listaDeTeclas[2].onclick;
+listaDeTeclas[3].onclick;
